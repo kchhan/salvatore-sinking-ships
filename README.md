@@ -1,6 +1,6 @@
 # Salvatore's Sinking Ships 🌊
 
-A Discord bot that lets you play the classic "Sinking Ships" game directly within Discord! 
+A Discord bot that lets you play the minigame "Sinking Ships" from The Ledgend of Zelda: The Wind Waker, directly within Discord! 
 
 ## 🎮 Game Overview
 
@@ -61,4 +61,4 @@ python main.py
 
 ## 📜 License
 
-This project is open-source. Feel free to contribute!
+This project is open-source.
