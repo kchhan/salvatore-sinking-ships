@@ -1,6 +1,6 @@
 # Salvatore's Sinking Ships 🌊
 
-A Discord bot that lets you play the minigame "Sinking Ships" from The Ledgend of Zelda: The Wind Waker, directly within Discord! 
+A Discord bot that lets you play the minigame "Sinking Ships" from The Legend of Zelda: The Wind Waker, directly within Discord! 
 
 ## 🎮 Game Overview
 
